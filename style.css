@@ -1,0 +1,25 @@
+body{
+    background-color: powderblue;
+}
+
+h1{
+    font-size: 50px;
+}
+
+img:hover{
+    background-color: gold;
+}
+
+.Apple{
+    border-radius: 100%;
+    background-color: black;
+}
+
+.broccoli{
+    border-radius: 100%;
+    background-color: red;
+}
+  
+#heading{
+    color: blue;
+}
